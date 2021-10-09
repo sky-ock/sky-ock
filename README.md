@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sky-ock
+- 👋 Hi, I’m @sky-rock
 - 👀 I’m interested in learning computer science in the game development
 - 🌱 I’m currently learning Cs50.
 - 💞️ I’m looking to collaborate on the area that are required of me to complte ths course I have enrroled on.
